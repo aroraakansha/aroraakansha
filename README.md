@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aroraakansha
-- 👀 I’m interested in ...on making webpages
+- 👀 I’m interested in ... making webpages
 - 🌱 I’m currently learning ...javascript , react, data structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...to reach me, you can contact me through mail ->akansha.arora2001@gmail.com
